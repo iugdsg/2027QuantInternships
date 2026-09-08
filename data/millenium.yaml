@@ -2,4 +2,11 @@ name: "Millenium"
 website: "https://www.mlp.com/job-listings/"
 locations: "NYC"
 notes: ""
-roles: []
+roles:
+  - role_type: "QR"
+    links:
+      - url: "https://campusjobs.mlp.com/careers/job/755957778843-2027-quantitative-researcher-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com"
+
+  - role_type: "QD"
+    links:
+      - url: "https://campusjobs.mlp.com/careers/job/755957819661-2027-quantitative-developer-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com"

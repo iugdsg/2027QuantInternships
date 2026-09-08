@@ -2,4 +2,11 @@ name: "Chicago Trading Company"
 website: "https://www.chicagotrading.com/search#search-results"
 locations: "Chicago"
 notes: "Very trader led shop. Shares an office with Group One Trading."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://chicagotrading.com/posting?campus=1&req=4716932005-Chicago"

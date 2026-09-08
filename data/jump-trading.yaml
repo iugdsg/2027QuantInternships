@@ -2,4 +2,24 @@ name: "Jump Trading"
 website: "https://www.jumptrading.com/careers/?titleSearch=campus+intern"
 locations: "Chicago"
 notes: "Fairly school-selective recruiting. Very engineering-focused with siloed teams. Known for being extremely fast at execution."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=7848371"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=7982648"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=8002989"
+        label: "General"
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=7565728"
+        label: "Trading Team"
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=8003019"
+        label: "UI"
+
+  - role_type: "FPGA"
+    links:
+      - url: "https://www.jumptrading.com/hr/job?gh_jid=7974391"

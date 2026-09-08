@@ -6,6 +6,10 @@ roles:
   - role_type: "QD"
     links:
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006"
+
   - role_type: "QR"
     links:
       - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006"
+        label: "Standard"
+      - url: "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006"
+        label: "PhD"

@@ -2,4 +2,18 @@ name: "AQR"
 website: "https://careers.aqr.com/jobs/department/university-jobs"
 locations: "Greenwich, CT"
 notes: ""
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-trading-summer-analyst/8077110?gh_jid=8077110"
+
+  - role_type: "QR"
+    links:
+      - url: "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-research-summer-analyst/7895583?gh_jid=7895583"
+        label: "Research"
+      - url: "https://careers.aqr.com/jobs?gh_jid=8122378"
+        label: "Prediction Markets"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-engineering-summer-analyst/7926647?gh_jid=7926647"
