@@ -49,7 +49,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-trading-summer-analyst/8077110?gh_jid=8077110)|
+|QR|[✅ Research](https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-research-summer-analyst/7895583?gh_jid=7895583)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Prediction Markets](https://careers.aqr.com/jobs?gh_jid=8122378)|
+|SWE|[✅ ](https://careers.aqr.com/jobs/open-positions/greenwich-ct/2027-engineering-summer-analyst/7926647?gh_jid=7926647)|
 
 
 ## Aquatic
@@ -74,7 +76,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Quantitative-Researcher-Intern--Summer-2027_R1505)|
+|QD|[✅ ](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Quantitative-Developer-Intern--Summer-2027_R1506)|
 
 
 ## Belvedere Trading
@@ -86,7 +89,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://jobs.lever.co/belvederetrading/cbde47db-c60b-4339-a8f4-a8e4f30505ab)|
+|SWE|[✅ ](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0)|
 
 
 ## Blackedge Capital
@@ -110,7 +114,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ ](https://job-boards.greenhouse.io/bridgewater89/jobs/8395041002)|
 
 
 ## Campbell and Company
@@ -134,7 +138,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708188005)|
+|SWE|[✅ ](https://chicagotrading.com/posting?campus=1&req=4716932005-Chicago)|
 
 
 ## Citadel Securities
@@ -147,7 +152,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 |QT|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-trader-intern-us/)|
-|QR|[✅ ](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ QR Engineer PhD](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/)|
+|QR|[✅ Analyst](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Analyst BS/MS](https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ QR Engineer PhD](https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/)|
 |ML|[✅ PhD](https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-intern-us/)|
 |SWE|[✅ ](https://www.citadelsecurities.com/careers/details/software-engineer-intern-us/)|
 |HW|[✅ FPGA](https://www.citadelsecurities.com/careers/details/fpga-engineer-intern-us/)|
@@ -163,7 +168,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 |QT|[✅ ](https://www.citadel.com/careers/details/quantitative-trader-equities-quantitative-research-intern-us/)|
-|QR|[✅ PhD](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/)|
+|QR|[✅ Analyst](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ QR Engineer PhD](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Sector Data Scientist](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/)|
 |SWE|[✅ ](https://www.citadel.com/careers/details/software-engineer-intern-us/)|
 
 
@@ -176,7 +181,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QD|[✅ ](https://job-boards.greenhouse.io/point72/jobs/7297613002)|
 
 
 ## DE Shaw
@@ -188,7 +193,9 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731)|
+|QR|[✅ General](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891)|
+|SWE|[✅ Software Developer](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Systems Engineering](https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916)|
 
 
 ## DRW
@@ -200,6 +207,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
+|QT|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090)|
 |QR|[✅ ](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670)|
 |SWE|[✅ ](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328)|
 |FPGA|[✅ ](https://www.drw.com/work-at-drw/listings/fpga-intern-3484423)|
@@ -302,6 +310,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |-------|-------|
 |QR|[✅ ](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062&gh_src=f4cuomjz1us)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837&gh_src=f4cuomjz1us)|
 |SWE|[✅ ](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&gh_src=f4cuomjz1us)|
+|HW|[✅ ](https://www.hudsonrivertrading.com/hrt-job/hardware-engineer-internship-summer-2027/)|
 
 
 ## IMC Trading
@@ -315,7 +324,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |-------|-------|
 |QT|[✅ ](https://www.imc.com/us/careers/jobs/4823923101)|
 |QR|[✅ BS/MS](https://www.imc.com/us/careers/jobs/4907399101)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://www.imc.com/us/careers/jobs/4907400101)|
-|SWE|[✅ ](https://www.imc.com/us/careers/jobs/4823924101)|
+|SWE|[✅ Software Engineer](https://www.imc.com/us/careers/jobs/4823924101)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Performance Engineer](https://www.imc.com/us/careers/jobs/4842595101)|
 |HW|[✅ ](https://www.imc.com/us/careers/jobs/4823945101)|
 
 
@@ -330,7 +339,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |-------|-------|
 |QT|[✅ ](https://www.janestreet.com/join-jane-street/position/8617344002/)|
 |QR|[✅ ](https://www.janestreet.com/join-jane-street/position/8498547002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ ML](https://www.janestreet.com/join-jane-street/position/8384490002/)|
-|SWE|[✅ ](https://www.janestreet.com/join-jane-street/position/8599644002/)|
+|SWE|[✅ Software Engineer](https://www.janestreet.com/join-jane-street/position/8599644002/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Machine Learning Engineer](https://www.janestreet.com/join-jane-street/position/8611307002/)|
 |FPGA|[✅ ](https://www.janestreet.com/join-jane-street/position/8624440002/)|
 
 
@@ -343,7 +352,10 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://www.jumptrading.com/hr/job?gh_jid=7848371)|
+|QR|[✅ ](https://www.jumptrading.com/hr/job?gh_jid=7982648)|
+|SWE|[✅ General](https://www.jumptrading.com/hr/job?gh_jid=8002989)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Trading Team](https://www.jumptrading.com/hr/job?gh_jid=7565728)&nbsp;&nbsp;&nbsp;&nbsp;[✅ UI](https://www.jumptrading.com/hr/job?gh_jid=8003019)|
+|FPGA|[✅ ](https://www.jumptrading.com/hr/job?gh_jid=7974391)|
 
 
 ## Mako Trading
@@ -363,23 +375,23 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 **Locations**: NYC
 
-**Notes**: 
+**Notes**: London-headquartered; the New York office runs a separate internship programme.
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ ](https://job-boards.greenhouse.io/mwinternshipprogram/jobs/8606238002)|
 
 
 ## Maven Securities
 **Website**: [Maven Securities](https://www.mavensecurities.com/jobs/)
 
-**Locations**: London
+**Locations**: London, Chicago
 
 **Notes**: Founded by ex-optiver traders.
 
 |Role|Links|
 |-------|-------|
-
+|QT|[✅ ](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937)|
 
 
 ## Millenium
@@ -391,7 +403,8 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ ](https://campusjobs.mlp.com/careers/job/755957778843-2027-quantitative-researcher-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com)|
+|QD|[✅ ](https://campusjobs.mlp.com/careers/job/755957819661-2027-quantitative-developer-intern-new-york-new-york-new-york-united-states-of-america?domain=mlp.com)|
 
 
 ## Old Mission
@@ -418,6 +431,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |QT|[✅ ](https://www.optiver.com/join-us/jobs/institutional-sales-and-trading/chicago/quantitative-intern-summer-2027/)|
 |QR|[✅ Chicago (PhD)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/chicago/quantitative-research-intern-phd-summer-2027/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin (PhD)](https://www.optiver.com/join-us/jobs/quantitative-research-and-machine-learning/austin/quantitative-research-intern-phd-summer-2027/)|
 |SWE|[✅ Chicago](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/)|
+|FPGA|[✅ Chicago](https://www.optiver.com/join-us/jobs/technology/chicago/fpga-engineer-intern-summer-2027-chicago/)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Austin](https://www.optiver.com/join-us/jobs/technology/austin/fpga-engineer-intern-summer-2027-austin/)|
 
 
 ## PDT Partners
@@ -429,7 +443,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ Software Engineering](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Systems Engineering](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292)|
 
 
 ## Peak6
@@ -454,7 +468,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 |QD|[✅ ](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006)|
-|QR|[✅ ](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006)|
+|QR|[✅ Standard](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679173006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679184006)|
 
 
 ## QuantLab
@@ -502,7 +516,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ ](https://job-boards.greenhouse.io/schonfeld/jobs/8180089)|
 
 
 ## Seven Eight
@@ -540,7 +554,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-|QT|[✅ Chicago](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10849)&nbsp;&nbsp;&nbsp;&nbsp;[✅ NYC](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10718)|
+|QT|[✅ Chicago](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10849)&nbsp;&nbsp;&nbsp;&nbsp;[✅ NYC](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10718)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Bala Cynwyd](https://careers.sig.com/quantitative-trading/jobs/10717)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Systematic (PhD, NYC)](https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10822)|
 |QR|[✅ Master's (Bala Cynwyd)](https://careers.sig.com/quantitative-systematic-trading-quantitative-research/jobs/10819)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Master's (NYC)](https://careers.sig.com/phds-postdocs/jobs/10820)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD (Bala Cynwyd)](https://careers.sig.com/phds-postdocs/jobs/10817)&nbsp;&nbsp;&nbsp;&nbsp;[✅ PhD (NYC)](https://careers.sig.com/phds-postdocs/jobs/10818)|
 |SWE|[✅ Quantitative Strategy Developer](https://careers.sig.com/intern-co-op/jobs/10838)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Trading System Engineering](https://careers.sig.com/intern-co-op-technology/jobs/10837)|
 
@@ -627,7 +641,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|QR|[✅ Quantitative Researcher](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Intern-2027-Summer/13945)&nbsp;&nbsp;&nbsp;&nbsp;[✅ AI Research Scientist](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096)|
 
 
 ## Valkyrie Trading
@@ -664,6 +678,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 |QR|[✅ PhD](https://job-boards.greenhouse.io/virtu/jobs/8624424002)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Undergrad](https://job-boards.greenhouse.io/virtu/jobs/8142539002)|
+|SWE|[✅ ](https://job-boards.greenhouse.io/virtu/jobs/8624410002)|
 
 
 ## Voleon
@@ -675,7 +690,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 
 |Role|Links|
 |-------|-------|
-
+|SWE|[✅ ](https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6)|
 
 
 ## Voloridge
@@ -702,7 +717,7 @@ Please see the `README.md` in the `./data` folder for instructions on how to mai
 |Role|Links|
 |-------|-------|
 |SWE|[✅ Risk Technology](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679224006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Technology](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4681002006)|
-|QR|[✅ Volatility](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Data Science](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006)|
+|QR|[✅ Volatility](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676334006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ Data Science](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676587006)&nbsp;&nbsp;&nbsp;&nbsp;[✅ CEQR](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4676069006)|
 
 
 ## Wolverine
