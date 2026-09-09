@@ -10,6 +10,9 @@ roles:
   - role_type: "QR"
     links:
       - url: "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-us/"
+        label: "Analyst"
+      - url: "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/"
+        label: "Analyst BS/MS"
       - url: "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-intern-us/"
         label: "PhD"
       - url: "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-intern-us/"

@@ -2,4 +2,7 @@ name: "Schonfeld"
 website: "https://www.schonfeld.com/careers/"
 locations: "Miami"
 notes: ""
-roles: []
+roles:
+  - role_type: "SWE"
+    links:
+      - url: "https://job-boards.greenhouse.io/schonfeld/jobs/8180089"

@@ -2,4 +2,21 @@ name: "DE Shaw"
 website: "https://www.deshaw.com/careers/internships"
 locations: "NYC"
 notes: "Tends to be extremely school-selective, mostly recruiting from ivy leagues and similar. Generally considered a top destination for QRs, more so than other roles."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.deshaw.com/careers/proprietary-trading-intern-new-york-summer-2027-5731"
+
+  - role_type: "QR"
+    links:
+      - url: "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890"
+        label: "General"
+      - url: "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891"
+        label: "PhD"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894"
+        label: "Software Developer"
+      - url: "https://www.deshaw.com/careers/systems-engineering-intern-new-york-summer-2027-5916"
+        label: "Systems Engineering"

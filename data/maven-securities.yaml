@@ -1,5 +1,8 @@
 name: "Maven Securities"
 website: "https://www.mavensecurities.com/jobs/"
-locations: "London"
+locations: "London, Chicago"
 notes: "Founded by ex-optiver traders."
-roles: []
+roles:
+  - role_type: "QT"
+    links:
+      - url: "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937"

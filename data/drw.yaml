@@ -3,6 +3,10 @@ website: "https://drw.com/work-at-drw/category/campus"
 locations: "Chicago, NYC"
 notes: "Perception is that DRWers tend to have a good WLB but teams are usually siloed. Known for their PM type culture and relatively fluid roles."
 roles:
+  - role_type: "QT"
+    links:
+      - url: "https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090"
+
   - role_type: "QR"
     links:
       - url: "https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3413670"

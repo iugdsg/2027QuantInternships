@@ -17,6 +17,9 @@ roles:
   - role_type: "SWE"
     links:
       - url: "https://www.imc.com/us/careers/jobs/4823924101"
+        label: "Software Engineer"
+      - url: "https://www.imc.com/us/careers/jobs/4842595101"
+        label: "Performance Engineer"
 
   - role_type: "HW"
     links:

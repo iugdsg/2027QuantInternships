@@ -9,8 +9,14 @@ roles:
 
   - role_type: "QR"
     links:
+      - url: "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/"
+        label: "Analyst"
       - url: "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/"
         label: "PhD"
+      - url: "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/"
+        label: "QR Engineer PhD"
+      - url: "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/"
+        label: "Sector Data Scientist"
 
   - role_type: "SWE"
     links:

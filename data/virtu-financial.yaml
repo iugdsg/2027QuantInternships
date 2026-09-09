@@ -9,3 +9,7 @@ roles:
         label: "PhD"
       - url: "https://job-boards.greenhouse.io/virtu/jobs/8142539002"
         label: "Undergrad"
+
+  - role_type: "SWE"
+    links:
+      - url: "https://job-boards.greenhouse.io/virtu/jobs/8624410002"

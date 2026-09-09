@@ -2,4 +2,7 @@ name: "Cubist"
 website: "https://careers.point72.com/?experience=internships"
 locations: "New York City"
 notes: "The quant arm of Steve Cohen's Point72 hedge fund. Pretty small and school selective."
-roles: []
+roles:
+  - role_type: "QD"
+    links:
+      - url: "https://job-boards.greenhouse.io/point72/jobs/7297613002"

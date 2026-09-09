@@ -9,6 +9,10 @@ roles:
         label: "Chicago"
       - url: "https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10718"
         label: "NYC"
+      - url: "https://careers.sig.com/quantitative-trading/jobs/10717"
+        label: "Bala Cynwyd"
+      - url: "https://careers.sig.com/quantitative-trading-internships-co-ops/jobs/10822"
+        label: "Systematic (PhD, NYC)"
 
   - role_type: "QR"
     links:

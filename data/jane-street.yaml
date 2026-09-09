@@ -16,6 +16,9 @@ roles:
   - role_type: "SWE"
     links:
       - url: "https://www.janestreet.com/join-jane-street/position/8599644002/"
+        label: "Software Engineer"
+      - url: "https://www.janestreet.com/join-jane-street/position/8611307002/"
+        label: "Machine Learning Engineer"
 
   - role_type: "FPGA"
     links:

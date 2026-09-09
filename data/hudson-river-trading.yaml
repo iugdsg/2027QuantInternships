@@ -12,3 +12,7 @@ roles:
   - role_type: "SWE"
     links:
       - url: "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083&gh_src=f4cuomjz1us"
+
+  - role_type: "HW"
+    links:
+      - url: "https://www.hudsonrivertrading.com/hrt-job/hardware-engineer-internship-summer-2027/"
